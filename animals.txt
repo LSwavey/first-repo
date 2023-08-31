@@ -3,3 +3,8 @@ N Newt
 O Onager
 P Panda
 T Tapir
+M Muskrat
+N Newt
+O Onager
+P Panda
+T Tapir
